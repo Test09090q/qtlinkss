@@ -9,7 +9,7 @@ class Config(object):
   SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "api.shareus.io")
   SHORTLINK_API = os.environ.get('SHORTLINK_API', "X8KgVEykIqhQIXefXcmrJb9aSPt2")
   BOT_OWNER = int(os.environ.get("BOT_OWNER", "6624919731"))
-  DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://qtmovie99:7gMCva3UFeEgHlP2@cluster0.qve685d.mongodb.net/?retryWrites=true&w=majority")
+  DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://groggajaj:A9bSxyuxPkw2MIg1@cluster0.6nr3zop.mongodb.net/?retryWrites=true&w=majority")
   UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "-1002132304678")
   LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002115836678"))
   BANNED_USERS = set(int(x) for x in os.environ.get("BANNED_USERS", "").split())
