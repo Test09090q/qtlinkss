@@ -3,8 +3,8 @@ import os
 class Config(object):
   API_ID = int(os.environ.get("API_ID", "9619481"))
   API_HASH = os.environ.get("API_HASH", "10effb30531c66d27b90f1e07f6bd071")
-  BOT_TOKEN = os.environ.get("BOT_TOKEN", "6163223615:AAFzsbBdLuqupI7bFU1kIZ8nzIoAlNOeG7A")
-  BOT_USERNAME = os.environ.get("BOT_USERNAME", "qtlinks_bot")
+  BOT_TOKEN = os.environ.get("BOT_TOKEN", "6725760034:AAEHsb0N2E93k8JPlDohvlYJmIEGFIdxCeM")
+  BOT_USERNAME = os.environ.get("BOT_USERNAME", "Kmoviestore_bot")
   DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002011038623"))
   SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "ziplinker.net")
   SHORTLINK_API = os.environ.get('SHORTLINK_API', "8ea1e29d79de76acacdae5625f19fe8703c97f68")
