@@ -31,11 +31,11 @@ This is a Permanent 𝙥𝙧𝙞𝙫𝙖𝙩𝙚 𝘽𝙤𝙩.
 ╰──────[  ]───────────⍟
 """
   ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: [qt](https://telegram.me/paidby99)
+🧑🏻‍💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: [kkt](https://telegram.me/oi)
  
  I am Super noob Please Support My Hard Work.
 
-[repo](https://t.me/paidby99)
+[repo](https://t.me/)
 """
   HOME_TEXT = """
 Hello, [{}](tg://user?id={})\n\n
